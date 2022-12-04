@@ -1,6 +1,8 @@
-# Sample Hardhat Project
+# WeFunder Smart Contract
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+Web3Funder is a platform that allows people from all over the world to raise funds seamlessly without any country restrictions or banking restrictions. Anyone can create an ethereum account and create their crowdfunding request with ease. 
+
+This repository contains the smart contract logic for the WeFunder Project. All Code Here is Tested and Deployed
 
 Try running some of the following tasks:
 
