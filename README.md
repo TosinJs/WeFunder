@@ -13,3 +13,6 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.ts
 ```
+
+The FrontEnd Logic for this application can be found at
+https://github.com/Shegun-istaken/WEB3FUNDER/blob/main/README.md
